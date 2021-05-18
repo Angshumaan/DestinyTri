@@ -16,7 +16,7 @@ import environ
 
 env = environ.Env()
 # reading .env file
-environ.Env.read_env()
+# environ.Env.read_env()
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
